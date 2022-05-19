@@ -1,0 +1,31 @@
+@charset "EUC-KR";
+@font-face {
+    font-family: 'SDSamliphopangche_Outline';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+N{
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+N.regular{
+	font-weight: 400;
+}
+N.medium {
+  font-weight: 500;
+}
+ 
+N.bold {
+  font-weight: 700;
+}
+N.black900
+{
+font-weight : 900;	
+}
+N.black900I{
+font-weight : 900;	
+}
+
+

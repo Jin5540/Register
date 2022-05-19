@@ -1,0 +1,17 @@
+@charset "EUC-KR";
+
+.first 
+{
+  width: 100px;
+  margin-bottom: 20px;
+  padding: 50px;
+  border-width: 10px;
+}
+
+div {
+  background-color: yellow;
+}
+
+*{
+box-sizing: border-box;
+}
